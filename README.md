@@ -67,8 +67,6 @@ linear_model.fit(X_train,Y_train)
 Y_pred = linear_model.predict(X_test)
 ```
 ```python
-print('GOKUL M')
-print('Reg NO:212222230037 ')
 print("Linear Regression Model:")
 mse=mean_squared_error(Y_test,Y_pred)
 print('MSE=',mean_squared_error(Y_test,Y_pred))
@@ -97,9 +95,6 @@ plt.show()
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/318ed232-bd4c-4ebd-9f3a-e0de0b1997cf)
-
-## Result:
-Thus, the program to implement Linear and Polynomial Regression models for predicting car prices was written and verified using Python programming.
 
 ## Result:
 Thus, the program to implement Linear and Polynomial Regression models for predicting car prices was written and verified using Python programming.
